@@ -47,7 +47,7 @@ Ghost Hunter is an anonymity and privacy tool designed for bug bounty hunters an
 
 ```bash
 # Clone or download the script
-git clone https://github.com/YOUR_USERNAME/ghost-hunter.git
+https://github.com/BotGJ16/Ghost-Hunter.git
 cd ghost-hunter
 
 # Make executable
